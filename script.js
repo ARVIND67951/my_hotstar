@@ -1,4 +1,4 @@
-let movies = [
+wetlet movies = [
   {
     name: "loki",
     des: "Loki is an American television series created by Michael Waldron for the streaming service Disney.",
